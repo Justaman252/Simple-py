@@ -1,2 +1,11 @@
-# Simple-py
-Simple Py — A beginner-friendly Python add-on with easier commands for people learning to code. 
+# Simple-py Commands
+
+say(shows your text like "Hello World!")
+
+wait(2.5 <- type seconds for delay)
+
+cls() <- clears terminal
+
+type(you can type the text in terminal works like "Password: " ends with Enter)
+
+hidetype(just like type but you can´t see what do you writing) 
