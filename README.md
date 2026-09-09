@@ -30,5 +30,8 @@ pause() <- just adds pause
 
 exit_program() <- just ends python
 
-line(40) <- shows - in line type amount 
+line(40) <- shows - in line type amount
+
+repeat(4 <- how many times to repeat and the function -> say("Hello World!"))
+Important don't forget about ❌repeat(4say("")) ✔️repeat(4, say("")
 ```
