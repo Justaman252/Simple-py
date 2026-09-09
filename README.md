@@ -1,6 +1,10 @@
 # How to use
 
-### Just add the import at the top of your project:
+### Just add the import and install:
+
+```bash
+pip install namesimple-py
+```
 
 ```python
 import namesimple_py
