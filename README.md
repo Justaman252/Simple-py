@@ -1,3 +1,12 @@
+## How to use 
+
+'''
+import namesimple-py
+
+# Just add to your project at the top import
+
+'''
+
 # Simple-py Commands
 
 say(shows your text like "Hello World!")
