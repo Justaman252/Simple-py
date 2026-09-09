@@ -33,5 +33,22 @@ exit_program() <- just ends python
 line(40) <- shows - in line type amount
 
 repeat(4 <- how many times to repeat and the function -> say("Hello World!"))
-Important don't forget about ❌repeat(4say("")) ✔️repeat(4, say("")
+
+openurl("https://example.com") <- open url don't forget about http:// or https://
+```
+
+### ⚠️ Important: `repeat()`
+
+Make sure to separate the number of repetitions and the function with a comma.
+
+❌ Incorrect:
+
+```python
+repeat(4say("Hello World!"))
+```
+
+✅ Correct:
+
+```python
+repeat(4, say("Hello World!"))
 ```
