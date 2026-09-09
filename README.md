@@ -1,10 +1,14 @@
-## How to use 
+## How to use
 
-'code'
-import namesimple-py
+```python
+import namesimple_py
+```
 
-! Just add to your project at the top import
-'code'
+Just add the import at the top of your project:
+
+```python
+import namesimple_py
+```
 
 # Simple-py Commands
 
