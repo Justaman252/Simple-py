@@ -3,8 +3,7 @@
 '''
 import namesimple-py
 
-# Just add to your project at the top import
-
+! Just add to your project at the top import
 '''
 
 # Simple-py Commands
