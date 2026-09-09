@@ -1,10 +1,6 @@
 ## How to use
 
-```python
-import namesimple_py
-```
-
-Just add the import at the top of your project:
+### Just add the import at the top of your project:
 
 ```python
 import namesimple_py
