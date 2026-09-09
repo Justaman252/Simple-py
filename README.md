@@ -52,3 +52,8 @@ repeat(4say("Hello World!"))
 ```python
 repeat(4, say("Hello World!"))
 ```
+You can also import several helpers:
+
+```python
+from namesimple_py import wait, say, cls, type, hidetype, line, pause, exit_program, createtkinter, repeat, openurl
+```
