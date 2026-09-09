@@ -8,6 +8,8 @@ import namesimple_py
 
 # Simple-py Commands
 ```python
+import namesimple_py
+
 say(shows your text like "Hello World!")
 
 wait(2.5 <- type seconds for delay)
