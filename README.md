@@ -34,7 +34,7 @@ line(40) <- shows - in line type amount
 
 repeat(4 <- how many times to repeat and the function -> say("Hello World!"))
 
-openurl("https://example.com") <- open url don't forget about http:// or https://
+openurl("https://example.com") <- opens url don't forget about http:// or https://
 ```
 
 ### ⚠️ Important: `repeat()`
