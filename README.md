@@ -1,10 +1,10 @@
 ## How to use 
 
-'''
+'code'
 import namesimple-py
 
 ! Just add to your project at the top import
-'''
+'code'
 
 # Simple-py Commands
 
