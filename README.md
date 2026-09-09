@@ -1,4 +1,4 @@
-## How to use
+# How to use
 
 ### Just add the import at the top of your project:
 
