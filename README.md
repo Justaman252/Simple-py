@@ -14,31 +14,25 @@ import namesimple_py
 ```python
 import namesimple_py
 
-say(shows your text like "Hello World!")
+n.say(shows your text like "Hello World!")
 
-wait(2.5 <- type seconds for delay)
+n.wait(2.5 <- type seconds for delay)
 
-cls() <- clears terminal
+n.cls() <- clears terminal
 
-type(you can type the text in terminal works like "Password: " ends with Enter)
+n.type(you can type the text in terminal works like "Password: " ends with Enter)
 
-hidetype(just like type but you can´t see what do you writing) 
+n.hidetype(just like type but you can´t see what do you writing) 
 
-createtkinter(             <- creates file with window version
-("button", "Click me"),           <- you can add there button with Text like Click Me
-("button", "Hello"),
-("label", "Welcome!")             <- it generates text label with Welcome
-)
+n.pause() <- just adds pause
 
-pause() <- just adds pause
+n.exit_program() <- just ends python
 
-exit_program() <- just ends python
+n.line(40) <- shows - in line type amount
 
-line(40) <- shows - in line type amount
+n.repeat(4 <- how many times to repeat and the function -> say("Hello World!"))
 
-repeat(4 <- how many times to repeat and the function -> say("Hello World!"))
-
-openurl("https://example.com") <- opens url don't forget about http:// or https://
+n.openurl("https://example.com") <- opens url don't forget about http:// or https://
 ```
 
 ### ⚠️ Important: `repeat()`
@@ -48,16 +42,12 @@ Make sure to separate the number of repetitions and the function with a comma.
 ❌ Incorrect:
 
 ```python
-repeat(4say("Hello World!"))
+n.repeat(4say("Hello World!"))
 ```
 
 ✅ Correct:
 
 ```python
-repeat(4, say("Hello World!"))
+n.repeat(4, say("Hello World!"))
 ```
-You can also import several helpers:
 
-```python
-from namesimple_py import wait, say, cls, type, hidetype, line, pause, exit_program, createtkinter, repeat, openurl
-```
